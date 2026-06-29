@@ -1,7 +1,0 @@
-node_modules/
-.DS_Store
-# generated artifacts at repo root (the app + throwaway harness a runner creates);
-# the proof/ directory keeps an example copy on purpose.
-/todo-list.html
-/verify*.mjs
-/package*.json
